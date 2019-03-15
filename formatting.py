@@ -1,4 +1,4 @@
-#! /usr/bin/env python3
+#! python3
 ### CSV --> new format (generate training data)
 
 import numpy as np

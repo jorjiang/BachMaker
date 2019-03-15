@@ -1,3 +1,4 @@
+#! python3
 ### Train model and make predictions
 
 from formatting import *
